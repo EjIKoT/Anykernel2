@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=PornHub kernel by rebenok90x/ctwoon
+kernel.string=Neonkernel by rebenok90x/ctwoon
 do.devicecheck=0
 do.modules=0
 do.cleanup=1
